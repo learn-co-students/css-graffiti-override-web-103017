@@ -1,1 +1,8 @@
 /* write your override styles here */
+div .tag-1, div  #tag-2, div #tag-3, div #tag-4, div #tag-5, div #tag-6, div #tag-7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 0px;
+  height: 0px;
+}
